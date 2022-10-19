@@ -243,8 +243,8 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 My analysis:
 
-1. Out of 10 Druge Regimens the 4 focused on were regimens: Capomulin, Ramicane  Infubinol and Ceftamin  in studying tumors in mice over a 45 day treament period
-2. The best of the four regimens was Capomulin; a line chart showed tumor size decreased over the study and the sez of them mice was split almost in half so as not to sway the study
-3. The correlation of the size of the tumor compared to the weight of the mouse using Capomulin was 84%;  suggesting the use of the Capomulin regimen showed a relationship that the tumor size was lower as the mouse weighed less.
-
+1. Out of 10 Drug Regimens the 4 focused on were regimens: Capomulin, Ramicane  Infubinol and Ceftamin  in studying tumors in mice over a 45 day treament period
+2. The best of the four regimens was Capomulin; a line chart showed tumor size decreased over the study and the sex of them mice was split almost in half so as not to sway the study
+3. The worse drug was Propriva was worst then the Placebo
+3. The correlation of the size of the tumor compared to the weight of the mouse using Capomulin was 84%;  suggesting the use of the Capomulin regimen showed a relationship that the tumor size was lower as the mouse weighed less.  
    
